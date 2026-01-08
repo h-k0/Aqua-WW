@@ -1,0 +1,7 @@
+{
+  "name": " Water Factory Management System",
+  "description": "A comprehensive multi-factory management platform for production tracking, agent management, PJP route optimization, and customer ordering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
